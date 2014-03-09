@@ -1,13 +1,17 @@
 Wymagania funkcjonalne:
--mo¿liwoœæ rêcznego wprowadzania danych,
--mo¿liwoœæ wprowadzenia danych z bazy, 
--mo¿liwoœæ dodawania przez u¿ytkownika w³asnych obieków do bazy,
-
+-mo¿liwoœæ rêcznego wprowadzania danych, 1
+-mo¿liwoœæ wprowadzenia danych z bazy, 1
+-mo¿liwoœæ dodawania przez u¿ytkownika w³asnych obieków do bazy, 2
+-u¿ytkownik mo¿e polubiæ profil naszej firmy na facebooku 3
+-u¿ytkownik mo¿e poznaæ numer konta, na które mo¿e przes³aæ dobrowoln¹ darowiznê 3
+-mo¿liwoœæ wyboru rodzaju sprzêtu 1
 
 
 Wymagania niefunkcjonalne: 
--niezawodnoœæ dzia³ania, 
--dobra widocznoœæ tekstu przy jasnym oœwietleniu,
--przenoœnoœæ, 
--w przypadku korzystania z bazy danych pogodowych konieczne po³¹czenie z internetem,
--czas obliczenia pojedynczego wyniku poni¿ej 5 sekund,
+-niezawodnoœæ dzia³ania, 1
+-dobra widocznoœæ tekstu przy jasnym oœwietleniu, 2
+-przenoœnoœæ, 2
+-w przypadku korzystania z bazy danych pogodowych konieczne po³¹czenie z internetem, 1
+-czas obliczenia pojedynczego wyniku poni¿ej 5 sekund, 2
+
+Priorytet: 1-wysoki, 2-œredni, 3-niski
